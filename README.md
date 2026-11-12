@@ -55,3 +55,7 @@ python3 -m http.server 8000
 Obri / Abre / Ireki: http://localhost:8000
 
 La web utilitza només HTML, CSS i JavaScript, sense dependències ni compilació. No guarda dades de l'usuari.
+
+## Guia Windows 11
+
+La guia multilingüe de compte local i Win11Debloat es troba en `guies/windows-11-compte-local/index.html` i està enllaçada des de la portada.
